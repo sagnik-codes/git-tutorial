@@ -6,5 +6,3 @@ console.log(sum);
 let c = 7;
 let d = 8;
 let e = 9 ;
-let f = 10 ;
-let g = 11;
